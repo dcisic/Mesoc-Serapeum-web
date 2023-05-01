@@ -14,3 +14,9 @@ The global aim is to respond to the challenge posed by the H2020 Call ”To deve
 MESOC SERAPEUM
 
         Project idea is to enable MESOC consortium members and other cultural stakeholders to become acquainted with the achievements of artificial intelligence and gain insight into the possibilities of AI. It is work in progress and will be updated regularly.AI tools are especially used to identify transaction variables that define contextualisation of research findings.
+		
+		
+		MESOC has received funding
+from Horizon 2020 - the EU Framework Programme
+for Research and Innovation (2014-2020) - 
+under Grant Agreement n°870935.
